@@ -1,0 +1,8 @@
+{
+    "name": "Flappy Bird Fullscreen Overlay",
+    "version": "1.0.0",
+    "description": "Fullscreen Flappy Bird Overlay",
+    "permissions": {
+        "keyboard": "any"
+    }
+}
